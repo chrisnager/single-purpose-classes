@@ -1,6 +1,12 @@
+# [single purpose classes](//chrisnager.github.io/single-purpose-classes)
+
+A stylesheet filled with single purpose classes generated from JSON. Check out the [demo](//chrisnager.github.io/single-purpose-classes).
+
+## License
+
 The MIT License (MIT)
 
-Copyright (c) 2014 Chris Nager
+Copyright (c) 2014 [Chris Nager](//twitter.com/chrisnager)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
